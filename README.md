@@ -1,2 +1,3 @@
-# WebService-TryIt
-Expose le SOAP server JAVA, Le Resful Service  JAVA , un CLient Java et un Site Sur les Articles 
+# Projet Blog Post 
+SOAP server JAVA | Resful Service  JAVA | CLient Java | Application web articles 
+Enjoy !
